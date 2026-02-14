@@ -11,6 +11,7 @@
 html, body {
     height: 100%;
     margin: 0;
+    overflow-x: hidden;
 }  
 main {
     flex: 1;
@@ -873,4 +874,5 @@ h2.vocaboli {
     font-style: italic;
     color: #6a1b9a;
     opacity: 0.8;
+
 }
